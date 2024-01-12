@@ -1,0 +1,7 @@
+{
+    user(id:"41") {
+      id,
+      firstName,
+      age
+    }
+  }

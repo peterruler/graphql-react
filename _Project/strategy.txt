@@ -1,0 +1,4 @@
+1. identify data required
+2. Write query in Graphiql (for practice) and in component file
+3. Bond query + component
+4. Access data!

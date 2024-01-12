@@ -1,0 +1,17 @@
+mutation {
+  login(email:"test@test.com", password:"password") {
+    email
+  }
+}
+
+mutation {
+  logout{
+    email
+  }
+}
+
+{
+  user {
+    email
+  }
+}

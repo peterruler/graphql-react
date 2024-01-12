@@ -1,0 +1,10 @@
+mutation {
+  editUser(id:"23",firstName: "Alex", age:44) {
+    id
+    age
+    firstName
+    company {
+      name
+    }
+  }
+}
