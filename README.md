@@ -14,6 +14,7 @@
 
 ## run
 
+- start the development backend: `npm run json:server`
 - `node server.js`
 
 ## call in webbrowser
