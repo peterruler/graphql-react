@@ -15,7 +15,7 @@
 ## run
 
 - start the development backend: `npm run json:server`
-- `node server.js`
+- to run frontend with nodemon do a `npm run dev`
 
 ## call in webbrowser
 
