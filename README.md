@@ -1,54 +1,54 @@
-## graphql with reactjs
+# graphql with reactjs
 
-# udemy course url
+## udemy course url
 
 - https://www.udemy.com/course/graphql-with-react-course/
 
 
 # 01-users-final
 
-# build
+## build
 
 - `cd 01-users-final`
 - `npm install`
 
-# run
+## run
 
 - `node server.js`
 
-# call in webbrowser
+## call in webbrowser
 
 - http://localhost:4000/graphql
 
 
 # 02-bug-fix-Lyrical-GraphQL
 
-# build
+## build
 
 - `cd 02-bug-fix-Lyrical-GraphQL`
 - `npm install`
 
-# run
+## run
 
  - `npm start dev`
 
-# call in webbrowser
+## call in webbrowser
 
 - http://localhost:4000/
 - second browser window, query development / inspection: http://localhost:4000/graphql
 
 # 03-login
 
-# build
-
+## build
+- unfortunately dependencies are incompatible (old versions) use yarn instead of npm to proper install all dependencies.
 - install yarn: `npm install --global yarn`
-- build project: `yarn`
+- build project, simply call: `yarn` (without any commandline options)
 
-# run
+## run
 
 - `npm run dev`
 
-# call in webbrowser
+## call in webbrowser
 
 - http://localhost:4000/
 - second browser window, query development / inspection: http://localhost:4000/graphql
