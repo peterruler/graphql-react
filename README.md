@@ -40,7 +40,7 @@
 # 03-login
 
 ## build
-- unfortunately dependencies are incompatible (old versions) use yarn instead of npm to propery install all dependencies.
+- unfortunately dependencies are incompatible (old versions) use yarn instead of npm to properly install all dependencies.
 - install yarn: `npm install --global yarn`
 - build project, simply call: `yarn` (without any commandline options)
 
